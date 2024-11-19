@@ -1,0 +1,11 @@
+ID: 101
+Name: John Doe
+Score: 95.50
+
+ID: 102
+Name: Jane Smith
+Score: 87.30
+
+ID: 103
+Name: Alice Johnson
+Score: 92.70
